@@ -56,7 +56,6 @@ La aplicación incluye las siguientes funcionalidades clave:
   - Ejecución de pruebas unitarias.
   - Linting.
   - Construcción de la aplicación.
-  - Despliegue automático en Vercel (si se configuró).
 
 ## Cómo Ejecutar el Proyecto Localmente
 
@@ -93,3 +92,11 @@ Se ha configurado un pipeline de GitHub Actions que ejecuta automáticamente las
 2. Pruebas unitarias.
 3. Linting del código.
 4. Construcción de la aplicación.
+
+## Capturas del funcionamiento
+
+![paginaPrincipal](image.png)
+
+![funcionamientoFiltro](image-1.png)
+
+![detalleProducto](image-2.png)

@@ -81,7 +81,7 @@ La aplicación incluye las siguientes funcionalidades clave:
 Este proyecto incluye pruebas unitarias y de integración utilizando Jest y React Testing Library. Para ejecutar las pruebas:
 
     ```bash
-    npm run test
+   npm run dev
    ```
 
 ## Pipeline CI/CD
@@ -92,11 +92,3 @@ Se ha configurado un pipeline de GitHub Actions que ejecuta automáticamente las
 2. Pruebas unitarias.
 3. Linting del código.
 4. Construcción de la aplicación.
-
-## Capturas del funcionamiento
-
-![paginaPrincipal](image.png)
-
-![funcionamientoFiltro](image-1.png)
-
-![detalleProducto](image-2.png)

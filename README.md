@@ -80,9 +80,7 @@ La aplicación incluye las siguientes funcionalidades clave:
 
 Este proyecto incluye pruebas unitarias y de integración utilizando Jest y React Testing Library. Para ejecutar las pruebas:
 
-    ```bash
-   npm test
-   ```
+npm test
 
 ## Pipeline CI/CD
 
